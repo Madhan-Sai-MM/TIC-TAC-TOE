@@ -1,6 +1,7 @@
 body{
-    padding-left: 20%;
-    padding-top: 2%;
+    padding-left: 9px;
+    padding-top: 4%;
+    background-color: rgb(219, 223, 232);
 }
 .maindiv,.first,.first-1,.first-2{
     display:flex;
@@ -22,3 +23,9 @@ body{
 #b1:hover,#b2:hover,#b3:hover,#b4:hover,#b5:hover,#b6:hover,#b7:hover,#b8:hover,#b9:hover{
     background-color: orange;
 }
+
+#but{
+    font-size:larger;
+    font-weight: bold;
+}
+
